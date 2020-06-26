@@ -2,8 +2,8 @@
 
 ## Table of Contents
 
-1. [Build A Tribute Page]()
-2. [Build A Survey Form]()
-3. [Build A Project Landing Page]()
-4. [Build A Technical Documentation Page]()
-5. [Build A Personal Portfolio Page]()
+1. [Tribute Page]()
+2. [Survey Form]()
+3. [Project Landing Page]()
+4. [Technical Documentation Page]()
+5. [Personal Portfolio Page]()
