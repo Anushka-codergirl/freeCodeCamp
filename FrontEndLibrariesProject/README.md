@@ -2,9 +2,9 @@
 
 ## Table of contents
 
-1. [A Random Quote Machine]()
-2. [A Markdown Previewer]()
-3. [A Drum Machine]()
-4. [A JavaScript Calculator]()
-5. [A Pomodoro Clock]()
+1. [Random Quote Machine]()
+2. [Markdown Previewer]()
+3. [Drum Machine]()
+4. [JavaScript Calculator]()
+5. [Pomodoro Clock]()
 
