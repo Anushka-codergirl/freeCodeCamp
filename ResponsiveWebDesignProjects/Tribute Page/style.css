@@ -1,0 +1,58 @@
+html,body{
+  font-family:"Courier New",monospace;
+  text-align:center;
+  min-width:260px;
+  color:#000;
+}
+#title{
+  font-family: Srisakdi,cursive;
+  font-size: 42px;
+}
+#main{
+  margin:10px 20px 10px 20px;
+  padding:15px;
+  border:0px solid;
+  border-radius:25px;
+  background:gold;
+}
+img{
+  max-width: 70%; 
+  display: flex; 
+  height: 500px;
+  margin: auto;
+}
+#img-div{
+  margin:-10px;
+  margin-top:20px;
+  width:100%;
+  border:5px solid green;
+  background:#ffffff;
+  border-radius: 20px;
+}
+#img-caption{
+  margin:10px;
+}
+#headline{
+  margin-top:50px;
+  text-align:left;
+  font-size: medium;
+}
+ul{
+  max-width:550px;
+  margin:0 auto;
+  text-align:left;
+}
+li{
+  margin: 10px;
+}
+blockquote{
+  font-style: italic;
+  font-size: 20px;
+  color: black;
+}
+#myName{
+  text-decoration:underline;
+  color:#ff0000;
+  font-family: Verdana;
+  font-weight:initial;
+}
